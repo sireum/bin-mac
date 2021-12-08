@@ -1,10 +1,10 @@
 /.checkstack
 /.checkstack.ver
-/.cvc4.ver
+/.cvc*.ver
 /.compcert.ver
 /.opam
 /clion
-/cvc4
+/cvc*
 /fmide.app
 /graal
 /idea
@@ -16,10 +16,10 @@
 /arm/.checkstack
 /arm/.checkstack.ver
 /arm/.compcert.ver
-/arm/.cvc4.ver
+/arm/.cvc*.ver
 /arm/.opam
 /arm/clion
-/arm/cvc4
+/arm/cvc*
 /arm/fmide
 /arm/graal
 /arm/idea
