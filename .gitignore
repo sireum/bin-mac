@@ -1,6 +1,7 @@
 /.checkstack
 /.*.ver
 /.opam
+/alt-ergo-open
 /clion
 /cvc*
 /fmide.app
