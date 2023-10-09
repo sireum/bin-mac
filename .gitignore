@@ -13,6 +13,7 @@
 /Isabelle.app
 /java
 /opam
+/osate.app
 /sireum
 /z3
 *.cmd.jar
