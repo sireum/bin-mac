@@ -6,5 +6,4 @@ this repository (when each of the binaries was last updated).
 
 | File | VirusTotal Result | License |
 | :--- | :---: | :---: |
-| [7z](https://github.com/sireum/bin-mac/blob/d130abb4c026194bfca8a69a229306e47b14f074/7z.sfx?raw=true) | [Clean](https://www.virustotal.com/gui/url/ca8bbebdd93c1332eab2ac62155b98303381eeaf4b488b5123c1ed9ced968a27/detection) | [GPL v2](https://github.com/sireum/7z-sfx/blob/master/README.txt#L176) |
 | [7za](https://github.com/sireum/bin-mac/raw/670b0859ee3eb41faae36fb4897bf175dcccf1d3/7za) | [Clean](https://www.virustotal.com/gui/url/a47f1d9a858cec8c31af25c3281b2dd5d0163eb35db1285d9a3b2f9a94aa87cf/detection) | [LGPL v2](https://www.7-zip.org/license.txt) |
