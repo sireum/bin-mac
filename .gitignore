@@ -15,6 +15,7 @@
 /osate.app
 /rust
 /sireum
+/upx
 /z3
 *.cmd.jar
 *.cmd.com
