@@ -4,6 +4,7 @@
 /acl2
 /ccl
 /clion
+/codium-portable-data
 /cvc*
 /fmide.app
 /graal
@@ -17,5 +18,6 @@
 /sireum
 /upx
 /z3
+/VSCodium.app
 *.cmd.jar
 *.cmd.com
